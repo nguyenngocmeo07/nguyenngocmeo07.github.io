@@ -148,7 +148,12 @@ const panel1 = [
     }
 ]
 
-const panel2 = [
+const panel2 = [ 
+     {
+    "img": "./img/Đầm công chúa tiểu thư sang chảnh cúp ngực phối ren siêu tôn dáng đi tiệc hẹn hò đi chơi quyến rũ Donna Dress",
+    "text": "Đầm nữ hai dây dáng dài cột nơ lưng đầm maxi dáng dài thời trang cho nữ",
+    "link": "https://shope.ee/501s17TIor"
+},
     {
         "img": "https://cf.shopee.vn/file/bd04078d1f4c7b4fdf422701bc7c16b9_tn",
         "text": "Đầm nữ hai dây dáng dài cột nơ lưng đầm maxi dáng dài thời trang cho nữ",

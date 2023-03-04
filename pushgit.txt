@@ -1,0 +1,18 @@
+git add .
+git commit -m "alo123"
+git push
+
+
+Cách thêm 1 item vào list
+1.Xác định panel cần thêm
+2. Vào web gốc ấn f12, mở sang tab cần lấy link, tìm api trả ra sản phẩm để xem sp mới, sau đó lấy trường image và trường title thay cho trường img và text của mình
+3. Dữ liệu mẫu 
+{
+    img: link ảnh,
+    text: title,
+    link: link aff shopee
+}
+4. Thêm cục dữ liệu kia vào đúng panel 
+5. ấn golive sau đó xem kết quả trên local và kiểm tra lại xem đã đúng link, đúng vị trí chưa
+6. Sau khi ok thì push lên github bằng câu lệnh ở trên
+7. Đợi vài phút vào https://nguyenngocmeo07.github.io/ kiểm tra kết quả
