@@ -1,5 +1,5 @@
 
-
+//do meo ban -------------------------------------------------------------------------------------------------------------------------
 const panel1 = [
     {
         "img": "https://cf.shopee.vn/file/496464140a11455b3f46770bd9edb203_tn",
@@ -147,13 +147,13 @@ const panel1 = [
         "link": "https://shope.ee/AwViEUWQ5"
     }
 ]
-
+//vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [ 
      {
-    "img": "./img/Đầm công chúa tiểu thư sang chảnh cúp ngực phối ren siêu tôn dáng đi tiệc hẹn hò đi chơi quyến rũ Donna Dress",
-    "text": "Đầm nữ hai dây dáng dài cột nơ lưng đầm maxi dáng dài thời trang cho nữ",
-    "link": "https://shope.ee/501s17TIor"
-},
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-fjqpixmwz2nvbf",
+        "text": "Đầm nữ hai dây dáng dài cột nơ lưng đầm maxi dáng dài thời trang cho nữ",
+        "link": "https://shope.ee/501s17TIor"
+    },
     {
         "img": "https://cf.shopee.vn/file/bd04078d1f4c7b4fdf422701bc7c16b9_tn",
         "text": "Đầm nữ hai dây dáng dài cột nơ lưng đầm maxi dáng dài thời trang cho nữ",
@@ -1030,7 +1030,7 @@ const panel2 = [
         "link": "https://shope.ee/9engM8cYC0"
     }
 ]
-
+//áo thun croptop -------------------------------------------------------------------------------------------------------------------------
 const panel3 = [
     {
         "img": "https://passio-prod.s3-ap-southeast-1.amazonaws.com/passio-prod/builder/62dd56294a305458b75bb367/570eba6f-400b-47b3-9503-57c274021f3a9CCAC5F7-A18B-4E15-8135-982A0B68E8E4.jpeg",
@@ -1113,7 +1113,7 @@ const panel3 = [
         "link": "https://shope.ee/6ADoCcp3RY"
     }
 ]
-
+//do ngu -------------------------------------------------------------------------------------------------------------------------
 const panel4 = [
     {
         "img": "https://passio-prod.s3-ap-southeast-1.amazonaws.com/passio-prod/builder/62dd56294a305458b75bb367/2DB54C1D-C911-4529-B620-B908452B65D3.jpeg",
@@ -1286,7 +1286,7 @@ const panel4 = [
         "link": "https://shope.ee/7zfSP5Kf9W"
     }
 ]
-
+//hoodie -------------------------------------------------------------------------------------------------------------------------
 const panel5 = [
     {
         "img": "https://passio-prod.s3-ap-southeast-1.amazonaws.com/passio-prod/builder/62dd56294a305458b75bb367/0db04ebb-a994-4526-9305-5e2fcb3ba3f31EF09661-F7A1-44FE-8094-A734859ECEB0.jpeg",
@@ -1439,7 +1439,7 @@ const panel5 = [
         "link": "https://shope.ee/89yscKETOi"
     }
 ]
-
+//cardigan -------------------------------------------------------------------------------------------------------------------------
 const panel6 = [
     {
         "img": "https://cf.shopee.vn/file/082244b1a9aa5f3b6cf603714f8dca12_tn",
@@ -1492,7 +1492,7 @@ const panel6 = [
         "link": "https://shope.ee/9UUGD5NaEM"
     }
 ]
-
+//giày -------------------------------------------------------------------------------------------------------------------------
 const panel7 = [
     {
         "img": "https://cf.shopee.vn/file/sg-11134201-22110-8njkm2cplckv70",
@@ -1510,7 +1510,7 @@ const panel7 = [
         "link": "https://shope.ee/7A6LR1vkLA"
     }
 ]
-
+//phụ kiện -------------------------------------------------------------------------------------------------------------------------
 const panel8 = [
     {
         "img": "https://cf.shopee.vn/file/dcd37b6e9151969c642b1eb5917aec0c_tn",
@@ -1593,7 +1593,7 @@ const panel8 = [
         "link": "https://shope.ee/5KehG5DwlE"
     }
 ]
-
+//my pham -------------------------------------------------------------------------------------------------------------------------
 const panel9 = [
     {
         "img": "https://cf.shopee.vn/file/6bb17569fb0dd3112e84f397f43edf2c_tn",
@@ -1622,7 +1622,7 @@ const panel9 = [
     }
 ]
 
-
+//dữ liệu từ đây đô lên đầu, ở dưới không phải dữ liệu, đừng suả
 function genItem(parent) {
     const oneItem = document.createElement("a");
     oneItem.setAttribute("href", item.link)
