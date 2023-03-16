@@ -2,6 +2,11 @@
 //do meo ban -------------------------------------------------------------------------------------------------------------------------
 const panel1 = [
     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-ncgcvffhygov4e",
+        "text": "Lắc chân bạc nữ mèo chuông Miu Miu chất liệu bạc S925 thời trang phụ kiện trang sức nữ Viễn Chí Bảo L500079",
+        "link": "https://shope.ee/4KmUSELlT9"
+    },
+    {
         "img": "https://cf.shopee.vn/file/496464140a11455b3f46770bd9edb203_tn",
         "text": "SENTINIALS HEAVY HOODIEZIP áo khoác dây kéo",
         "link": "https://shope.ee/1VRtivjdti"
