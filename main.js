@@ -154,7 +154,72 @@ const panel1 = [
 ]
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [ 
-     {
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-ho8tl2sgfmlv2a",
+        "text": "Đầm Natalia Dress",
+        "link": "https://shope.ee/3fWkOJEm49"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-puyd0flsaflv8e",
+        "text": "Đầm Rosa Dress",
+        "link": "https://shope.ee/7f2t9WGJRB"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-oqmqtq6ffflvce",
+        "text": "Almira Dress",
+        "link": "https://shope.ee/1L8pbyknaT"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-zmaftisbtaov71",
+        "text": "Set hai dây trễ vai babydoll màu kem, có lớp lót mút ngực. ord 2-3days",
+        "link": "https://shope.ee/8KIYRFg20x"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-h7ybeleaxaovfc",
+        "text": "Set quần yếm đen áo sơmi tiểu thư.",
+        "link": "https://shope.ee/3VDOnhE1QN"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-j3z5sjbevaovde_tn",
+        "text": "Set yếm nhung đen tiêu thư, kèm áo sơmi có thắt nơ.",
+        "link": "https://shope.ee/1L8uDbC6ZU"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23010-9my1b5dy54lv32",
+        "text": "SET ÁO CỔ YẾM BÈO + QUẦNNGẮN",
+        "link": "https://shope.ee/dT2qAHHl"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22110-mdvfy8vw3vjv01",
+        "text": "đầm ống voan xoè viền đá",
+        "link": "https://shope.ee/30H4cJUroL"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-17b4a5s7khnv62",
+        "text": "SET ỐNG TRẮNG TÀ XÉO TƯA CHÂN VÁY KAKI✨",
+        "link": "https://shope.ee/4AT20Nsm6I"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23010-rxsgh08ckxmv67",
+        "text": "SET ĐẦM2 DÂY HOA NHÍ VÀNG KEM XOÈ + KHOÁC CROP TRẮNG",
+        "link": "https://shope.ee/502CZffVhq"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/4786f7bee89bb84656823cf9c8b8cf71",
+        "text": "SET ÁO REN + QUẦN SUÔNG TRẮNG",
+        "link": "https://shope.ee/7UjXY9Ckls"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/b51ecfa57fd79c54619657c401578d83",
+        "text": "SET ÁO TRẮNG 2 DÂY VIỀN REN CỔ YẾM + QUẦN SUÔNG DẬP LY",
+        "link": "https://shope.ee/2L1ROXLuhF"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-2lc1gesm6inv94",
+        "text": "Chân váy ngắn xẻ tà MONÁ- MANDA ĐEN",
+        "link": "https://shope.ee/5fHtMZ33QJ"
+    },
+    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-fjqpixmwz2nvbf",
         "text": "Đầm nữ hai dây dáng dài cột nơ lưng đầm maxi dáng dài thời trang cho nữ",
         "link": "https://shope.ee/501s17TIor"
@@ -1120,6 +1185,11 @@ const panel3 = [
 ]
 //do ngu -------------------------------------------------------------------------------------------------------------------------
 const panel4 = [
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-higp65y3dmnvfc",
+        "text": "Áo thun baby tee MONÁ - TERRA",
+        "link": "https://shope.ee/8pEvA6IVVr"
+    },
     {
         "img": "https://passio-prod.s3-ap-southeast-1.amazonaws.com/passio-prod/builder/62dd56294a305458b75bb367/2DB54C1D-C911-4529-B620-B908452B65D3.jpeg",
         "text": "MONÁ - Quần dài nỉ đóng logo ống rộng - BOBBI PANTS VÀNG/XÁM/XÁM CHÌ/HỒNG ĐẬM",
