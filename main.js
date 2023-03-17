@@ -155,6 +155,21 @@ const panel1 = [
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [ 
     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-tfya50qbivnv3f",
+        "text": "Đầm midi hoa tay bồng cổ vuông dáng xòe chất hoa thêu đầm nữ dạo phố xinh xắn",
+        "link": "https://shope.ee/8pEvAkkHHn"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-dndbrp28tlnv98",
+        "text": "Đầm nữ midi dáng dài xếp ly ngực chất gấm hoa Đầm nữ hàng thiết kế",
+        "link": "https://shope.ee/6pTqn3S2De"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-46vnqjuvz6nv71",
+        "text": "Váy trắng dạo phố rút dây eo dáng xoè hoạ tiết hoa dập nổi xinh xắn",
+        "link": "https://shope.ee/6AE9zjoay9"
+    },
+    {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-ho8tl2sgfmlv2a",
         "text": "Đầm Natalia Dress",
         "link": "https://shope.ee/3fWkOJEm49"
