@@ -154,6 +154,31 @@ const panel1 = [
 ]
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [ 
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-whm8oxmyhhnve7",
+        "text": "Set áo cổ yếm đen + chân váy",
+        "link": "https://shope.ee/8pEx9zdefx"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-dp4lbhiylhnv0f",
+        "text": "Set áo ống nude + quần nude",
+        "link": "https://shope.ee/20Od1MNDdJ"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-9kcfucbghhnv77",
+        "text": "Đầm yếm lông vũ nude",
+        "link": "https://shope.ee/6pTte4PE8Z"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-xqpuzuxwqonv69",
+        "text": "ĐẦM DOLL XỐP HỒNG DÂY CỔ YẾM NƠ NGỰC",
+        "link": "https://shope.ee/4pioOtZ9T0"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-tz62lig29ynvc6",
+        "text": "set áo rớt vai ren + chân váy xoè",
+        "link": "https://shope.ee/9eo49jVEP5"
+    },
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-tfya50qbivnv3f",
         "text": "Đầm midi hoa tay bồng cổ vuông dáng xòe chất hoa thêu đầm nữ dạo phố xinh xắn",
