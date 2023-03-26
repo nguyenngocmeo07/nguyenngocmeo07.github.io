@@ -2,6 +2,11 @@
 //do meo ban -------------------------------------------------------------------------------------------------------------------------
 const panel1 = [
     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-gh7yzneaqtkva9",
+        "text": "Dây chuyền thiên nga CDE Crystal Swan Necklace Silver CDE6042SV - Dây chuyền bạc nữ",
+        "link": "https://shope.ee/4KmkYiInJq"
+    },
+    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-ncgcvffhygov4e",
         "text": "Lắc chân bạc nữ mèo chuông Miu Miu chất liệu bạc S925 thời trang phụ kiện trang sức nữ Viễn Chí Bảo L500079",
         "link": "https://shope.ee/4KmUSELlT9"
@@ -154,7 +159,47 @@ const panel1 = [
 ]
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [ 
+        {
+        "img": "https://down-vn.img.susercontent.com/file/b534c6c2ce5d81550e0c7a3b97d47af9_tn",
+        "text": "LENA DRESS - Váy trễ vai phối dây đính đá",
+        "link": "https://shope.ee/8KItJsH92i"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/e44c0fe420d52d13e87b4130b6ffc818",
+        "text": "ELY TOP & ELY SKIRT - Áo bồng trễ vai và chân váy quần",
+        "link": "https://shope.ee/5KfHkKGF8K"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23010-1t99l1rg0ylva7",
+        "text": "Set trễ vai cổ yếm trắng - Chitchitstore",
+        "link": "https://shope.ee/9eoGuB2mRM"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-qd0ixtm8p9mvb9",
+        "text": "Đầm hoa xanh rời - Chitchitstore",
+        "link": "https://shope.ee/5UyhwLw4rW"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23010-j3yeuxg7gylv1f",
+        "text": "Set áo ren trắng - Chitchitstore",
+        "link": "https://shope.ee/7A6vvDuIy1"
+    },
      {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-trzjdo395inv7d",
+        "text": "Áo sơ mi cardigan MONÁ - MILIM ĐEN",
+        "link": "https://shope.ee/502RMb41eT"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-1b0okb0bj4mv7f",
+        "text": "Maiaofficial- Set học sinh hàn áo crop chân váy đính kèm nơ tháo rời🎒",
+        "link": "https://shope.ee/8evjhr5EPt"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-8o2fwr0i19nve2",
+        "text": "Maiaofficial-Set áo tay phồng quần lưng cao túi áo đính hoa Black Swan Set🦢",
+        "link": "https://shope.ee/8evjhjueax"
+    },
+    {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-whm8oxmyhhnve7",
         "text": "Set áo cổ yếm đen + chân váy",
         "link": "https://shope.ee/8pEx9zdefx"
@@ -1419,6 +1464,21 @@ const panel4 = [
 ]
 //hoodie -------------------------------------------------------------------------------------------------------------------------
 const panel5 = [
+     {
+        "img": "https://down-vn.img.susercontent.com/file/6aa3b73aa1f1b723f8d65ebfe0744783",
+        "text": "AITHER STUDIO Áo khoác MONO CARDIGAN in họa tiết thương hiệu màu Kem",
+        "link": "https://shope.ee/2L1gBXR14j"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/0b1d84905cadf0efa7e40e6ac9cc24ae",
+        "text": "AITHER STUDIO Áo Hoodie Zip Unisex form rộng (HÀNG CHÍNH HÃNG)",
+        "link": "https://shope.ee/10WIazuVxg"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-s2bvkaa2rqlv79",
+        "text": "AITHER STUDIO - Áo nỉ SIGNATURE SWEATER FORM RỘNG",
+        "link": "https://shope.ee/LGbnfUkMs"
+    },
     {
         "img": "https://passio-prod.s3-ap-southeast-1.amazonaws.com/passio-prod/builder/62dd56294a305458b75bb367/0db04ebb-a994-4526-9305-5e2fcb3ba3f31EF09661-F7A1-44FE-8094-A734859ECEB0.jpeg",
         "text": "Áo Khoác Hoodie Nỉ bông siêu to khủng lồ hai lớp mũ siêu ấm",
