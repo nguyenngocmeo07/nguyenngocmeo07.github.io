@@ -7,9 +7,9 @@ const panel1 = [
         "link": "https://shope.ee/2L1m8af5tl"
     },
     {
-        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-zc31qzg1yvovb0",
-        "text": "RAGLAN TEE SENTINIALS áo thun raglan",
-        "link": "https://shope.ee/2L1m8af5tl"
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-lewfeahqrl1zc0_tn",
+        "text": "Son Kem Black Rouge Double Layer Over Velvet Ver.2 31.6g",
+        "link": "https://shope.ee/4ATQTP8vpK"
     },
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-zc31qzg1yvovb0",
