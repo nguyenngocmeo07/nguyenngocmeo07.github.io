@@ -5,7 +5,8 @@ const panel1 = [
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-cpvkyrq5y5mv11"
         "text": "LOVE TEE SENTINIALS",
         "link": "https://shope.ee/2L1m8af5tl"
-    },",
+    },
+    {
         "text": "RAGLAN TEE SENTINIALS áo thun raglan",
         "link": "https://shope.ee/30HSvgT07u"
         "link": "https://shope.ee/2L1m8af5tl"
