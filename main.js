@@ -8,7 +8,7 @@ const panel1 = [
     },
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-zc31qzg1yvovb0",
-        "text": "RAGLAN TEE SENTINIALS áo thun raglan"
+        "text": "RAGLAN TEE SENTINIALS áo thun raglan",
         "link": "https://shope.ee/2L1m8af5tl"
     },
     {
