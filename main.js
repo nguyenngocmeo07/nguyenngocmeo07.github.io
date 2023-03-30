@@ -2,7 +2,7 @@
 //do meo ban -------------------------------------------------------------------------------------------------------------------------
 const panel1 = [
     {
-        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-cpvkyrq5y5mv11"
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-cpvkyrq5y5mv11",
         "text": "LOVE TEE SENTINIALS",
         "link": "https://shope.ee/2L1m8af5tl"
     },
