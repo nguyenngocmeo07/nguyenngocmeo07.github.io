@@ -2,6 +2,20 @@
 //do meo ban -------------------------------------------------------------------------------------------------------------------------
 const panel1 = [
     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-cpvkyrq5y5mv11"
+        "text": "LOVE TEE SENTINIALS",
+        "link": "https://shope.ee/2L1m8af5tl"
+    },",
+        "text": "RAGLAN TEE SENTINIALS áo thun raglan",
+        "link": "https://shope.ee/30HSvgT07u"
+        "link": "https://shope.ee/2L1m8af5tl"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-zc31qzg1yvovb0",
+        "text": "RAGLAN TEE SENTINIALS áo thun raglan",
+        "link": "https://shope.ee/30HSvgT07u"
+    },
+    {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-gh7yzneaqtkva9",
         "text": "Dây chuyền thiên nga CDE Crystal Swan Necklace Silver CDE6042SV - Dây chuyền bạc nữ",
         "link": "https://shope.ee/4KmkYiInJq"
@@ -159,7 +173,17 @@ const panel1 = [
 ]
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [ 
-        {
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lettt6ywdax66f",
+        "text": "Đầm Thiết Kế Rớt Vai Nơ TuongVy",
+        "link": "https://shope.ee/40A07Ps93a"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-lewtrjsoqqmv72",
+        "text": "Đầm Dự Tiệc Tacta trễ vai xoè",
+        "link": "https://shope.ee/9UUwfR0Ee8"
+    },
+    {
         "img": "https://down-vn.img.susercontent.com/file/b534c6c2ce5d81550e0c7a3b97d47af9_tn",
         "text": "LENA DRESS - Váy trễ vai phối dây đính đá",
         "link": "https://shope.ee/8KItJsH92i"
