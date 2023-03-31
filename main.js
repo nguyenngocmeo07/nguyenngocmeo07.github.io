@@ -1213,6 +1213,26 @@ const panel2 = [
 //áo thun croptop -------------------------------------------------------------------------------------------------------------------------
 const panel3 = [
     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-poajg80o17nv3c",
+        "text": "Đồ bộ nữ mặc nhà 2 dây chất mango cao cấp họa tiết đẹp siêu mát DĐ3",
+        "link": "https://shope.ee/7zgAKCGLh2"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-28o7nvzpwsovad",
+        "text": "Đồ bộ pijama nữ tay ngắn mặc nhà lụa xước cao cấp siêu cute dễ thương CĐ2",
+        "link": "https://shope.ee/LGjC1hV0I"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-p5ul1prxl2nvc9",
+        "text": "Bộ đồ ngủ nữ mặc nhà pijama cộc tay chất đũi gân cao cấp siêu mát CĐ1",
+        "link": "https://shope.ee/3KuKlSy9WS"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-tfu3jsqkowkv11",
+        "text": "[ ẢNH THẬT ] Bộ đồ ngủ nữ mặc nhà pijama cộc tay chất đũi gân cao cấp siêu mát CĐ1Đầm ngủ 2 dây nhún bèo đũi xốp hoạ tiết xinh xắn. Váy ngủ hoạ tiết gấu nhiều màu đáng yêu",
+        "link": "https://shope.ee/LGjBqGnho"
+    },
+    {
         "img": "https://passio-prod.s3-ap-southeast-1.amazonaws.com/passio-prod/builder/62dd56294a305458b75bb367/570eba6f-400b-47b3-9503-57c274021f3a9CCAC5F7-A18B-4E15-8135-982A0B68E8E4.jpeg",
         "text": "￼Lacy Dress - đầm ngủ ren hoa nhí thiết kế Pretty Me",
         "link": "https://shope.ee/6ADWI5ZhK5"
