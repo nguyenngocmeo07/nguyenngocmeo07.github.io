@@ -1,6 +1,16 @@
 
 //do meo ban -------------------------------------------------------------------------------------------------------------------------
 const panel1 = [
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-4x27qiebh9nv83",
+        "text": "Gọng kính cận nam nữ Lilyeyewear chất liệu kim loại mắt đa giác thanh mảnh 2808",
+        "link": "https://shope.ee/1L9KCEjuyd"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-vncet2wch9nvb5",
+        "text": "Gọng kính nam nữ Lilyeyewear kim loại càng nhựa, mắt tròn, nhiều màu 6214",
+        "link": "https://shope.ee/4fPm9YMlUo"
+    },
     {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-cpvkyrq5y5mv11",
         "text": "LOVE TEE SENTINIALS",
