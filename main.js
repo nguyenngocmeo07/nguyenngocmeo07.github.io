@@ -184,6 +184,12 @@ const panel1 = [
 ]
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [ 
+   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-wj0wcw4wsjkvce",
+        "text": "GILL BABY | Chân váy dài gấp nếp bên hông đi chơi đi học đi làm sexy trendy basic (HOT CHICK SKIRT)",
+        "link": "https://shope.ee/30HcbNHGd8"
+    },
      {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lettt6ywdax66f",
         "text": "Đầm Thiết Kế Rớt Vai Nơ TuongVy",
