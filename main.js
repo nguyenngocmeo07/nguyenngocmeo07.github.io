@@ -183,8 +183,17 @@ const panel1 = [
     }
 ]
 //vay -------------------------------------------------------------------------------------------------------------------------
-const panel2 = [ 
-   
+const panel2 = [
+     {
+        "img": "https://down-vn.img.susercontent.com/file/459b434151c10f60adb4b80672d0a61c",
+        "text": "GILL BABY | Chân váy tầng xoè xếp ly 2 tầng có quần bảo hộ (HIGHTEEN SKIRT)",
+        "link": "https://shope.ee/5KfXP8oPL1"
+    }, 
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23010-m35k7pr54tlva7",
+        "text": "GILL BABY | Áo croptop cutout khuy cài độc đáo trendy đi chơi đi cafe sống ảo (OBSESS TOP)",
+        "link": "https://shope.ee/AUNdYOfbsk"
+    }, 
      {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-wj0wcw4wsjkvce",
         "text": "GILL BABY | Chân váy dài gấp nếp bên hông đi chơi đi học đi làm sexy trendy basic (HOT CHICK SKIRT)",
