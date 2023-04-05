@@ -1222,7 +1222,27 @@ const panel2 = [
 ]
 //áo thun croptop -------------------------------------------------------------------------------------------------------------------------
 const panel3 = [
-    {
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-8s9zv4uop6nv50",
+        "text": "EL01 - Set Áo Quần Thun Nhún Bèo Cổ Trụ",
+        "link": "https://shope.ee/LGrQDTCvQ"
+    }, 
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-dj3z4lo9s9nv54",
+        "text": "EL02 - Set Áo Dây Phối Ren Thun Cotton Elastic",
+        "link": "https://shope.ee/2pyCOhZiVx"
+    }, 
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-bx5wux0r5dovcf",
+        "text": "LT34 - Set Áo Dây Đắp Lưng Bèo",
+        "link": "https://shope.ee/502gyZCu5Q"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/bb4b4a0069341e8780a8eafd148af024",
+        "text": "BỘ ĐÙI 2 DÂY LỤA REN HỒNG CAM",
+        "link": "https://shope.ee/3VDtBbjvt8"
+    },
+     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-poajg80o17nv3c",
         "text": "Đồ bộ nữ mặc nhà 2 dây chất mango cao cấp họa tiết đẹp siêu mát DĐ3",
         "link": "https://shope.ee/7zgAKCGLh2"
@@ -1323,7 +1343,7 @@ const panel3 = [
         "link": "https://shope.ee/6ADoCcp3RY"
     }
 ]
-//do ngu -------------------------------------------------------------------------------------------------------------------------
+//ao thun, áo croptop -------------------------------------------------------------------------------------------------------------------------
 const panel4 = [
       
     {
