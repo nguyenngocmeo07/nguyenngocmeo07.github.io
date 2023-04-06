@@ -185,6 +185,26 @@ const panel1 = [
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
      {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22110-mnw0k3dn0fkv4c_tn",
+        "text": "💐 VÁY ĐẦM TRẮNG TRỄ VAI CÔNG CHÚA * JASMINE ĐÍNH NGỌC TRẮNG * mặc sinh nhật, kỷ yếu, đi tiệc",
+        "link": "https://shope.ee/5UyyhdIAxQ"
+    }, 
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23010-rjl4qk6x4umv0b",
+        "text": "ĐẦM - VÁY TRẮNG TIỂU THƯ DÀI TAY * MISO * mặc sinh nhật, đi tiệc, kỷ yếu",
+        "link": "https://shope.ee/9eoXf8xHrb"
+    }, 
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-lkygg3z3aelvbd",
+        "text": "GILL BABY | Set áo chân váy basic đính nút vạt chéo chất bo gân mặc hằng ngày đi chơi (MUST HAVE SET)",
+        "link": "https://shope.ee/99sH3zeRoH"
+    }, 
+     {
+        "img": "https://down-vn.img.susercontent.com/file/98e8be1b0eee7ad9806c1aff8e116dc0",
+        "text": "GILL BABY | Áo croptop tay phồng nhún ngực thắt dây đi chơi hẹn hò (ROSIE TOP)",
+        "link": "https://shope.ee/1L9PjRGyyv"
+    }, 
+     {
         "img": "https://down-vn.img.susercontent.com/file/459b434151c10f60adb4b80672d0a61c",
         "text": "GILL BABY | Chân váy tầng xoè xếp ly 2 tầng có quần bảo hộ (HIGHTEEN SKIRT)",
         "link": "https://shope.ee/5KfXP8oPL1"
