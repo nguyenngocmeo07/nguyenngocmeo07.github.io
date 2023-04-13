@@ -200,7 +200,7 @@ const panel2 = [
         "link": "https://shope.ee/3fXWL9qCrh"
     },  
      {
-        "img": "https://down-vSet áo ô xanh + quần trắng - Chitchitstoren.img.susercontent.com/file/vn-11134207-7qukw-lewqw08bl0lz53",
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lewqw08bl0lz53",
         "text": "Set áo ô xanh + quần trắng - Chitchitstore",
         "link": "https://shope.ee/30HpXqdZsu"
     },  
