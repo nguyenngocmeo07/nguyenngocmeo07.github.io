@@ -185,6 +185,86 @@ const panel1 = [
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
      {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-zlw7z4uj1tkv17",
+        "text": "Đầm gấm đỏ - Chitchitstore",
+        "link": "https://shope.ee/30HpY0mjmv"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-loii95fr16mv52",
+        "text": "Đầm trắng đan dây lưng siêu đẹp - Chitchitstore",
+        "link": "https://shope.ee/3fXWL9qCrh"
+    },  
+     {
+        "img": "https://down-vSet áo ô xanh + quần trắng - Chitchitstoren.img.susercontent.com/file/vn-11134207-7qukw-lewqw08bl0lz53",
+        "text": "Set áo ô xanh + quần trắng - Chitchitstore",
+        "link": "https://shope.ee/30HpXqdZsu"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-ler4oegv3cei21",
+        "text": "Set dạ nhung *JISOO* phối cúc cổ bẻ sơ mi kèm chân váy mặc dự tiệc, prom, kỷ yếu",
+        "link": "https://shope.ee/3fXWKyzOSB"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-zyvvh0vc77nv1c",
+        "text": "Váy trắng trễ vai nơ đính nút ngọc *Gloria* dáng bồng tiểu thư mặc kỷ yếu, dự tiệc, tết",
+        "link": "https://shope.ee/3KufwHkjuS"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23010-wnutf8zrawmvc0",
+        "text": "ĐẦM-VÁY TRẮNG TAY HẠT NGỰC XẾP NHIỀU TẦNG CÔNG CHÚA MẶC KỶ YẾU, TIỆC CƯỚI, DU LỊCH",
+        "link": "https://shope.ee/8zZ2gYxjol"
+    },    
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-leparm0jkywif0_tn",
+        "text": "SET ÁO TRẮNG BÈO TAY LOE XẺ TÀ + QUẦN NGẮN",
+        "link": "https://shope.ee/7zgVUZnrAP"
+    },    
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-leub1x67eo9j82",
+        "text": "đầm trắng babydoll xoè phối choker cổ",
+        "link": "https://shope.ee/4fQ3WMpMo8"
+    },    
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-442db45r6xov36",
+        "text": "SET ÁO ỐNG TÀ LỆCH + QUẦN SUÔNG",
+        "link": "https://shope.ee/4pjTiazHCz"
+    },    
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-p1b9ll8h7jnvda",
+        "text": "CAROLYN DRESS đầm ngắn cổ sen Ebublio",
+        "link": "https://shope.ee/30HpX9U8Xf"
+    },    
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-hm8g1p9a87nvee",
+        "text": "ADELIA TOP áo rút ngực cánh tiên Ebublio",
+        "link": "https://shope.ee/LH4MAc2v1"
+    },    
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-n0ftlfqzslnv1b",
+        "text": "DE JOLIE DRESS đầm trễ vai bèo Ebublio",
+        "link": "https://shope.ee/6UrhhO8nwN"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-2xdx5nsnmqnv31",
+        "text": "ÁO CROPTOP CỔ TRÒN TIỂU THƯ VIỀN ZICZAC 2 LỚP CHẤT DÀY KÈM NƠ CÀI",
+        "link": "https://shope.ee/4V6dJcEVkM"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-llxnjn4gmqnvbf",
+        "text": "SET VEST CROPTOP PHỐI CHÂN VÁY XẾP LI KÈM ÁO SƠ MI NGẮN TAY DÀI",
+        "link": "https://shope.ee/7A7OUPOiW8"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-x3m5q9ziapnvc5",
+        "text": "[Ảnh thật] SET 3 MÓN ÁO SƠ MI TIỂU THƯ KÈM GILE VÀ CHÂN VÁY XẾP LI",
+        "link": "https://shope.ee/6AErITvLVh"
+    }, 
+     {
+        "img": "https://down-vn.img.susercontent.com/file/95827dd6aed0bbc50ecc648ccc41a796",
+        "text": "❌ ĐẦM VÁY TRẮNG ĐÍNH HẠT VỎ SÒ DỰ TIỆC * FLOWER *",
+        "link": "https://shope.ee/5UzAV9nB2m"
+    }, 
+     {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22110-mnw0k3dn0fkv4c_tn",
         "text": "💐 VÁY ĐẦM TRẮNG TRỄ VAI CÔNG CHÚA * JASMINE ĐÍNH NGỌC TRẮNG * mặc sinh nhật, kỷ yếu, đi tiệc",
         "link": "https://shope.ee/5UyyhdIAxQ"
