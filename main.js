@@ -1,6 +1,21 @@
 
 //do meo ban -------------------------------------------------------------------------------------------------------------------------
 const panel1 = [
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf188yeiq447eb",
+        "text": "Aither Studio Áo thun BASIC BUBBLE TEE Black/Beige/Pink/White",
+        "link": "https://shope.ee/9zRbRzVLtY"
+    },  
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfap0q3sdtvuda",
+        "text": "Aither Studio Áo thun SUMMER SCENT TEE Black/Beige",
+        "link": "https://shope.ee/4V6etmjul6"
+    }, 
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-leqor8d8ln0300",
+        "text": "Aither Studio Áo thun BE MY BEAR Black/Beige",
+        "link": "https://shope.ee/1L9d7rXzl3"
+    },
     {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-90iuynt7gbnvce",
         "text": "Tẩy Tế Bào Chết Body Cà Phê Hữu Cơ 500g Hella Beauty Cho Mọi Loại Da Giúp Dưỡng Trắng Da Toàn Thân, Giảm Mụn Mờ Thâm",
@@ -190,6 +205,16 @@ const panel1 = [
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
      {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-cwa3sy9nwqov80",
+        "text": "Set chân váy maxi áo crotop màu hồng đi biển, Chân váy dài áo quây cotton crepe Bliz V10",
+        "link": "https://shope.ee/6AEst95q94"
+    },  
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23030-36ixwzsod5nv8a",
+        "text": "Set áo sơ mi nữ và chân váy ngắn vải đũi trắng Summer ST03",
+        "link": "https://shope.ee/5fIcI8aZ7Y"
+    },   
+    {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-zlw7z4uj1tkv17",
         "text": "Đầm gấm đỏ - Chitchitstore",
         "link": "https://shope.ee/30HpY0mjmv"
@@ -1340,9 +1365,14 @@ const panel2 = [
         "link": "https://shope.ee/9engM8cYC0"
     }
 ]
-//áo thun croptop -------------------------------------------------------------------------------------------------------------------------
+//đồ ngủ -------------------------------------------------------------------------------------------------------------------------
 const panel3 = [
      {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-hokqq6qwcvov42",
+        "text": "Set đồ ngủ nữ mặc nhà mùa hè đẹp Alice, set đồ ngủ nữ 2 dây cute Uri Studio",
+        "link": "https://shope.ee/AK4Rqz2n15"
+    },  
+    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-8s9zv4uop6nv50",
         "text": "EL01 - Set Áo Quần Thun Nhún Bèo Cổ Trụ",
         "link": "https://shope.ee/LGrQDTCvQ"
@@ -1390,12 +1420,12 @@ const panel3 = [
     {
         "img": "https://passio-prod.s3-ap-southeast-1.amazonaws.com/passio-prod/builder/62dd56294a305458b75bb367/B331A843-E265-43A0-87A9-1B9BB3CBEE50.jpeg",
         "text": "￼Barbie set - bộ mặc nhà caro freesize",
-        "link": "https://shope.ee/8UbR4Q3fns"
+        "link": "https://shope.ee/5KfltzYzKQ"
     },
     {
         "img": "https://cf.shopee.vn/file/8e1555d60fbd5be8d898dca1527bd757_tn",
         "text": "Rita set - set ngủ hai dây chất thun co giãn thoải mái",
-        "link": "https://shope.ee/5zu65rCS37"
+        "link": "https://shope.ee/3fXXutBLJz"
     },
     {
         "img": "https://cf.shopee.vn/file/sg-11134201-22110-i3vh3a3vvgkvaa",
