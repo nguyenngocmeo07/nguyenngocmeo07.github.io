@@ -2011,7 +2011,12 @@ const panel8 = [
 ]
 //my pham -------------------------------------------------------------------------------------------------------------------------
 const panel9 = [
-      {
+     {
+        "img": "https://down-vn.img.susercontent.com/file/cc29f4abcbde62ccda03e6901bd4b96c",
+        "text": "Đai Chống Gù Lưng và Bảo Vệ Vòng 1 BEBECHIC (TRẮNG/HỒNG/ĐEN)",
+        "link": "https://shope.ee/5AMWQb9QBe"
+    }, 
+     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfhzl0ra8nsl68",
         "text": "Nước Hoa Nữ Flower mix 10 Full box 50ml thơm lâu hương thơm hoa cỏ ngọt ngào quyến rũ",
         "link": "https://shope.ee/AxqT0Y5PG"
