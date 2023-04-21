@@ -2011,7 +2011,12 @@ const panel8 = [
 ]
 //my pham -------------------------------------------------------------------------------------------------------------------------
 const panel9 = [
-    {
+      {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfhzl0ra8nsl68",
+        "text": "Nước Hoa Nữ Flower mix 10 Full box 50ml thơm lâu hương thơm hoa cỏ ngọt ngào quyến rũ",
+        "link": "https://shope.ee/AxqT0Y5PG"
+    },
+     {
         "img": "https://cf.shopee.vn/file/6bb17569fb0dd3112e84f397f43edf2c_tn",
         "text": "Nước tẩy trang cho mọi loại da L'Oreal Paris 3-in-1 Micellar Water 400ml",
         "link": "https://shope.ee/LG1IvS35E"
