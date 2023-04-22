@@ -205,6 +205,16 @@ const panel1 = [
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
      {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf4yzeczas9621",
+        "text": "Set đồ nữ sang chảnh áo croptop tay bồng phối chân váy xòe SE15",
+        "link": "https://shope.ee/40AaUFuvZp"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-x5b4cvgf2xov50",
+        "text": "Váy gấm hoa nổi tay bèo tiểu thư dáng suông V06",
+        "link": "https://shope.ee/9eoxEZFmR0"
+    },   
+     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfhvmdf6vc04a0",
         "text": "Chloe Set - Set áo lai tim cổ vuông + chân váy chữ A mini - Morri Club",
         "link": "https://shope.ee/99sgdUCvKa"
