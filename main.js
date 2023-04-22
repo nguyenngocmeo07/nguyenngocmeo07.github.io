@@ -205,6 +205,31 @@ const panel1 = [
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
      {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfhvmdf6vc04a0",
+        "text": "Chloe Set - Set áo lai tim cổ vuông + chân váy chữ A mini - Morri Club",
+        "link": "https://shope.ee/99sgdUCvKa"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22100-gd4du65mmtiv64",
+        "text": "Áo dạ + áo ren + váy đen - Chitchitstore",
+        "link": "https://shope.ee/1q65tvPGIz"
+    },    
+     {
+        "img": "https://down-vn.img.susercontent.com/file/3c8e679563b32a19d142cd541c94791e",
+        "text": "Set 3 món đen - Chitchitstore",
+        "link": "https://shope.ee/6AF53mtaeO"
+    },    
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-vrfn2hx00snv65",
+        "text": "Set áo ống đen nơ trắng + quần - Chitchitstore",
+        "link": "https://shope.ee/5pcEf4ssoS"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-tdwtcxr7wtov73",
+        "text": "Váy cổ yếm trễ vai [Lily Dress] tafta cao cấp cực xinh - Đầm yếm tay bồng tafta hai màu kiều nữ 2 lớp babydoll",
+        "link": "https://shope.ee/1AqP6OigeD"
+    },  
+     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-cwa3sy9nwqov80",
         "text": "Set chân váy maxi áo crotop màu hồng đi biển, Chân váy dài áo quây cotton crepe Bliz V10",
         "link": "https://shope.ee/6AEst95q94"
