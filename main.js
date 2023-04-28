@@ -203,7 +203,52 @@ const panel1 = [
     }
 ]
 //vay -------------------------------------------------------------------------------------------------------------------------
-const panel2 = [
+const panel2 = [ 
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-ll055snpaqnv0d",
+        "text": "Váy tơ lông cổ yếm dáng xoè (Ảnh thật shop chụp)",
+        "link": "https://shope.ee/4fQQjijAZc"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-9ozr3i2qcfnv2d",
+        "text": "Set tiêu thư 3 món áo sơ mi tay bồng kèm set đen (Ảnh thật shop chụp",
+        "link": "https://shope.ee/1VTOxqja66"
+    },      
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-jaqmev64fxnvd6_tn",
+        "text": "Set áo sơ mi cách điệu mix chân váy xẻ tà dập li chảnh xỉu (Ảnh thật của sản phẩm)",
+        "link": "https://shope.ee/5fIxvR4aoa"
+    },    
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf891e0aubtj5f",
+        "text": "( SẴN ) Đầm Corset 2 Dây Thắt Nơ Rút Eo Phối Bèo Dáng Xoè",
+        "link": "https://shope.ee/4KnaKtPI8W"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-8v15gljxegovb3",
+        "text": "( SẴN ) Đầm Voan Hoa Bẹt Vai Dáng Ngắn Xoè Nhiều Tầng",
+        "link": "https://shope.ee/503H7tso6a"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lern8wfni5qid4",
+        "text": "( SẴN ) Đầm Midi 2 Dây Dạng Corset Phối Váy Voan Bóng Dáng Xoè",
+        "link": "https://shope.ee/AUODfuAEpX"
+    },    
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf2yt1zidz0qa8",
+        "text": "Váy tơ dây ngọc dáng bồng có tay tách rời (Ảnh thật shop chụp)",
+        "link": "https://shope.ee/5Kg7WJnivb"
+    },    
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfxmxvymlcoa0c",
+        "text": "Váy cánh tiên cổ tàu dáng bồng xoè đính ngọc (Ảnh thật shop chụp)",
+        "link": "https://shope.ee/3Kv38WyAIT"
+    },    
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23010-w5e7c4jt2imv5a",
+        "text": "Váy body ba lỗ tôn dáng sexy đầm hai dây bảng to ôm sát nách cổ xẻ V gợi cảm vải thun gân dày xịn Lch",
+        "link": "https://shope.ee/9ep6g62kPj"
+    },    
      {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf4yzeczas9621",
         "text": "Set đồ nữ sang chảnh áo croptop tay bồng phối chân váy xòe SE15",
