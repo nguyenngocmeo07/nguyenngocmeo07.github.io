@@ -2,6 +2,16 @@
 //do meo ban -------------------------------------------------------------------------------------------------------------------------
 const panel1 = [
      {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf41667100uva7",
+        "text": "TEE LOGO SENTINIALS áo thun tay ngắn",
+        "link": "https://shope.ee/4V72JxeVxg"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-8ikp68yyyvova4",
+        "text": "LONGSLEEVE ILLUSION SENTINIALS áo tay dài",
+        "link": "https://shope.ee/6fAiMyjCgD"
+    },
+     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf188yeiq447eb",
         "text": "Aither Studio Áo thun BASIC BUBBLE TEE Black/Beige/Pink/White",
         "link": "https://shope.ee/9zRbRzVLtY"
@@ -203,7 +213,12 @@ const panel1 = [
     }
 ]
 //vay -------------------------------------------------------------------------------------------------------------------------
-const panel2 = [ 
+const panel2 = [
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfsfvsnxnwtz73",
+        "text": "Đầm dạo phố quyến rũ",
+        "link": "https://shope.ee/4V725qXBwo"
+    },
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-ll055snpaqnv0d",
         "text": "Váy tơ lông cổ yếm dáng xoè (Ảnh thật shop chụp)",
