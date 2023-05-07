@@ -215,6 +215,71 @@ const panel1 = [
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
      {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfvdrfznpw16a2",
+        "text": "Myra Top - Áo quây xếp ly ngực DTM",
+        "link": "https://shope.ee/7A80EuyCWn"
+    },    
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-z2zt05ewapov17",
+        "text": "Remis Top - Áo gấm trễ vai ôm ngực DTM",
+        "link": "https://shope.ee/LHg6HdQxs"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfvdscaig7av48",
+        "text": "Myla Top - Áo tay bồng đính cúc hoa DTM",
+        "link": "https://shope.ee/3VEhrwQwwY"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfvdscaix1t66b",
+        "text": "Tini Set - Set áo blazer và chân váy xếp ly hoạ tiết kẻ DTM",
+        "link": "https://shope.ee/ephIjBJa"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lg3psy1gwkc7ef",
+        "text": "Tini skirt - chân váy kẻ thiết kế DTM ( 2 form ngắn dài)",
+        "link": "https://shope.ee/4pk5S76k5T"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lg0wwk76vlnu83",
+        "text": "Aó trễ vai tay bồng babydoll , áo kiểu hai dây sang chảnh",
+        "link": "https://shope.ee/AK5204T66b"
+    }, 
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-lfeudbkgh4dx0a",
+        "text": "[CÓ BIGSIZE] Đầm Maxi FREESIZEhai dây thắt nơ dáng babydoll nhiều màu phong cách Hàn Quốc mùa hè đi biển",
+        "link": "https://shope.ee/4V7F3GiWbI"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfl401svu7hx5e",
+        "text": "Áo thun baby tee fit dáng chất vải thun 2 chiều không co rút in Anis",
+        "link": "https://shope.ee/6AFT27zRVC"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfl5frs5g4n840",
+        "text": "Áo thun baby tee phối sọc vải cotton 2 chiều cao cấp thêu logo Anis",
+        "link": "https://shope.ee/1fn3fmE7oP"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfl5frs5ixs4b3",
+        "text": "Chân váy y2k chất vải cotton có quần lưng thấp Anis",
+        "link": "https://shope.ee/99t4bOto2P"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfzor6k8025z4a",
+        "text": "Váy hoa nhí cúp ngực tay bồng tiểu thư thiết kế sang trọng Rio wonmen's",
+        "link": "https://shope.ee/4pk5RJMKmF"
+    }, 
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-tnsr8hrvu6nv00",
+        "text": "hion store - set áo xẻ kèm short nâu hot",
+        "link": "https://shope.ee/1Aqn4RdO1j"
+    }, 
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfnqk0rx1c3o17",
+        "text": "Áo 2 dây xẻ tà dài thiết kế - Cledi trắng đen",
+        "link": "https://shope.ee/7zh7CZkHHa"
+    }, 
+     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfsfvsnxnwtz73",
         "text": "Đầm dạo phố quyến rũ",
         "link": "https://shope.ee/4V725qXBwo"
