@@ -214,6 +214,56 @@ const panel1 = [
 ]
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lepgfk0ng81f72",
+        "text": "Váy cổ bèo cúc ngọc tiểu thư, sang chảnh baziz closet",
+        "link": "https://shope.ee/1q6TvOVwYy"
+    }, 
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfy7t1k2hqay39",
+        "text": "Set áo nơ chân váy xếp li nữ xinh, mặc đi chơi đi làm lịch sự",
+        "link": "https://shope.ee/40AyVHz2e0"
+    },    
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-vd9q7nezfuov9d",
+        "text": "Set tiểu thư cổ bèo kèm nơ ngực baziz closet",
+        "link": "https://shope.ee/fuWX5eQNM"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/9fd2d4a0b413e5acffac47c6fab76b64",
+        "text": "Set váy hoa nhí cổ yếm dáng dài kèm áo khoác cardigan croptop Ulzzang HABII V02",
+        "link": "https://shope.ee/AUOSF2wwuP"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf4yzee3g6mi7a",
+        "text": "Set áo cổ yếm quần ống rộng SE16",
+        "link": "https://shope.ee/9KCUqoTrvj"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/fe1cf80163faa411d25c51b8603a685b",
+        "text": "Set váy thời trang nữ vest( k kèm nơ)+ váy 2 dây tiểu thư",
+        "link": "https://shope.ee/5pccgJ9xGO"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/3e1f63ab939f6725bcd123cde3193f89_tn",
+        "text": "Set cánh tiên trễ vai ( chân váy có quần trong)",
+        "link": "https://shope.ee/2L2kVny9XF"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22110-lggl9qtjawjvc4",
+        "text": "Váy ren thiết kế tiểu thư 2 lớp cổ vuông tay bồng ( hàng loại 1)",
+        "link": "https://shope.ee/5AMvswG812"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lg1lubs1y2nr16",
+        "text": "Swan Dress - Váy đính lông thiết kế cao cấp DTM",
+        "link": "https://shope.ee/AUOSEcBuaW"
+    },    
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfvdrg0hq2qy04",
+        "text": "REMY Top - Áo quây phối voan DTM kèm choker",
+        "link": "https://shope.ee/A9lbpvbKvS"
+    },    
      {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfvdrfznpw16a2",
         "text": "Myra Top - Áo quây xếp ly ngực DTM",
