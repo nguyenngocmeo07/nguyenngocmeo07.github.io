@@ -214,7 +214,17 @@ const panel1 = [
 ]
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
-    {
+      {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfga7mzxuhdhbf_tn",
+        "text": "Set áo tay phồng hoa nhí buộc nơ sau lưng phối với quần ngắn tiểu thư nữ tính",
+        "link": "https://shope.ee/8UdPg1lg9O"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfga7mzy2ws53f",
+        "text": "Set áo hai dây hoa nhí buộc nơ sau lưng phối với quần ngắn tiểu thư nữ tính Ella set Fairy&Co",
+        "link": "https://shope.ee/8zZgGs3OUR"
+    }, 
+     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lepgfk0ng81f72",
         "text": "Váy cổ bèo cúc ngọc tiểu thư, sang chảnh baziz closet",
         "link": "https://shope.ee/1q6TvOVwYy"
@@ -1616,6 +1626,16 @@ const panel3 = [
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-p5ul1prxl2nvc9",
         "text": "Bộ đồ ngủ nữ mặc nhà pijama cộc tay chất đũi gân cao cấp siêu mát CĐ1",
         "link": "https://shope.ee/3KuKlSy9WS"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgbnmghujbhz76",
+        "text": "Đồ bộ mặc nhà pyjama xô muslin hoạ tiết quả đào nền hồng Dabi",
+        "link": "https://shope.ee/9p8nGgjsNW"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgbnos3s58mveb",
+        "text": "Đồ bộ mặc nhà pyjama xô muslin hoạ tiết hoa tulip nền trắng kem Dabi",
+        "link": "https://shope.ee/8UdPg9VBBJ"
     },
     {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-tfu3jsqkowkv11",
