@@ -214,7 +214,17 @@ const panel1 = [
 ]
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
-    {
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22110-s7l0ln1qjejva9",
+        "text": "Đầm xoè tay phồng trễ vai tiểu thư Stella Dress - MIDSUMMER",
+        "link": "https://shope.ee/5pcjPqfggU"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfcg4nnp9zes55",
+        "text": "Đầm trắng 2 tầng dáng xoè Gwen Dress - MIDSUMMER",
+        "link": "https://shope.ee/9UW1mUupFr"
+    },     
+     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf6m571c779mf6",
         "text": "Liberty Dress - Váy trắng tay dài cổ nơ",
         "link": "https://shope.ee/5KgRCjwY0u"
