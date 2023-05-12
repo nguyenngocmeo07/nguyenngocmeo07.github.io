@@ -1,6 +1,21 @@
 
 //do meo ban -------------------------------------------------------------------------------------------------------------------------
 const panel1 = [
+    {
+        "img": "https://down-vn.img.susercontent.com/file/bd98c9e0cf1e1b5ff0aecd6dd3409420",
+        "text": "Dây chuyền bạc Miuu Silver, vòng cổ nữ hình cái nơ đính đá xinh xắn, sang trọng",
+        "link": "https://shope.ee/40B79Q4ROa"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/3f639e1fb44ab79f2883083120b25e18",
+        "text": "Dây chuyền bạc nữ Miuu Silver, vòng cổ bạc đính 1 viên đá nhỏ xinh Elisie Necklace",
+        "link": "https://shope.ee/5Uzuw60TWm"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgm26vj394xefe",
+        "text": "GWEN SENTINIALS BABY TEE áo thun form baby tee",
+        "link": "https://shope.ee/7KRZ7KjjbU"
+    },
      {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf41667100uva7",
         "text": "TEE LOGO SENTINIALS áo thun tay ngắn",
