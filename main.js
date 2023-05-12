@@ -214,6 +214,36 @@ const panel1 = [
 ]
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-lentmzau4aerd2_tn",
+        "text": "Set váy tiểu thư có khoá sang chảnh mix áo quây kèm quần sooc thiết kế ELWYN EL04",
+        "link": "https://shope.ee/5pclKJ9a1B"
+    }, 
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-cg7nysiq2gov7b",
+        "text": "Chân váy cạp cao hot trend phối vải vạt chất liệu cao cấp không nhăn-kèm đai VAVASA CV32",
+        "link": "https://shope.ee/8zZn5ywUAC"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-o01kjvidxgov48",
+        "text": "Áo sơ mi nữ thiết kế khóa kéo hot trend độc đáo chất vải cao cấp không nhăn VAVASA SM43",
+        "link": "https://shope.ee/5UzuvOvqXX"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-hqi59h50l1nva3",
+        "text": "Set dạ tiểu thư 2 chi tiết quảng châu cao cấp",
+        "link": "https://shope.ee/4fQnvhYGCO"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-xmqwasyqx6nv64",
+        "text": "Đầm xoè hoa nhí tay phồng dáng ngắn tiểu thư quảng châu loại 1",
+        "link": "https://shope.ee/10XVYrXFZ6"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfp76k03u0dxb2_tn",
+        "text": "[EMMA SET ] Set váy xinh tháo rời Tafta vân hoa cao cấp lalacrush",
+        "link": "https://shope.ee/5fJL7LqlJT"
+    },   
      {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22110-s7l0ln1qjejva9",
         "text": "Đầm xoè tay phồng trễ vai tiểu thư Stella Dress - MIDSUMMER",
