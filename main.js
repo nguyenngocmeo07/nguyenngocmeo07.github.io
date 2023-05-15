@@ -2380,16 +2380,6 @@ const panel9 = [
         "text": "Son Kem Black Rouge Double Layer Over Velvet Ver.2 31.6g",
         "link": "https://shope.ee/6zoikXjM36"
     },   
-    {
-        "img": "https://down-vn.img.susercontent.com/file/cc29f4abcbde62ccda03e6901bd4b96c",
-        "text": "Đai Chống Gù Lưng và Bảo Vệ Vòng 1 BEBECHIC (TRẮNG/HỒNG/ĐEN)",
-        "link": "https://shope.ee/5AMWQb9QBe"
-    }, 
-     {
-        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfhzl0ra8nsl68",
-        "text": "Nước Hoa Nữ Flower mix 10 Full box 50ml thơm lâu hương thơm hoa cỏ ngọt ngào quyến rũ",
-        "link": "https://shope.ee/AxqT0Y5PG"
-    },
      {
         "img": "https://cf.shopee.vn/file/6bb17569fb0dd3112e84f397f43edf2c_tn",
         "text": "Nước tẩy trang cho mọi loại da L'Oreal Paris 3-in-1 Micellar Water 400ml",
