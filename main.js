@@ -230,6 +230,21 @@ const panel1 = [
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfse8w54shuy87",
+        "text": "Đầm váy lụa công chúa trễ vai form baby doll dễ thương sang chảnh đính đá đi tiệc đi chơi hẹn hò Helen Dress",
+        "link": "https://shope.ee/AK5EwR1NY5"
+    },   
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-hosw53x6jsov14",
+        "text": "Đầm ,áo babydoll dáng rộng tay bồng tiểu thư quảng châu 2 chi tiết",
+        "link": "https://shope.ee/3prlCPNOrp"
+    },   
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-hqi59h50l1nva3",
+        "text": "Set dạ tiểu thư 2 chi tiết quảng châu cao cấp",
+        "link": "https://shope.ee/3VEuni4pNb"
+    }, 
+    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-lentmzau4aerd2_tn",
         "text": "Set váy tiểu thư có khoá sang chảnh mix áo quây kèm quần sooc thiết kế ELWYN EL04",
         "link": "https://shope.ee/5pclKJ9a1B"
