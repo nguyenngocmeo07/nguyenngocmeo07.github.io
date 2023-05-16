@@ -233,7 +233,27 @@ const panel2 = [
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgu9p99nw8xef3",
         "text": "set đồ đi biển",
         "link": "https://shope.ee/6zooKlfSKI"
-    },   
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-lhmm1bixhhnv41",
+        "text": "Đầm hoa nổi tay dài nude - Chitchitstire",
+        "link": "https://shope.ee/6UsXmA344p"
+    }, 
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgn72us6z01fb2",
+        "text": "Set áo 3 món vàng hồng - Chitchitstore",
+        "link": "https://shope.ee/5pcqyjsmZc"
+    }, 
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfntrrrx3j3p65",
+        "text": "Set áo yếm nude hoa nổi + quần trắng - Chitchitstore",
+        "link": "https://shope.ee/4AUczb19BG"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-ley7ledrsw3u56",
+        "text": "ĐẦM GẤM HOA CỔ V NƠ TRẮNG",
+        "link": "https://shope.ee/8pGSXu3W55"
+    },
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfse8w54shuy87",
         "text": "Đầm váy lụa công chúa trễ vai form baby doll dễ thương sang chảnh đính đá đi tiệc đi chơi hẹn hò Helen Dress",
