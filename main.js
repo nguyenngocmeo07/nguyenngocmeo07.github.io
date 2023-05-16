@@ -229,6 +229,11 @@ const panel1 = [
 ]
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgu9p99nw8xef3",
+        "text": "set đồ đi biển",
+        "link": "https://shope.ee/6zooKlfSKI"
+    },   
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfse8w54shuy87",
         "text": "Đầm váy lụa công chúa trễ vai form baby doll dễ thương sang chảnh đính đá đi tiệc đi chơi hẹn hò Helen Dress",
