@@ -229,7 +229,52 @@ const panel1 = [
 ]
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
-     {
+   {
+        "img": "https://down-vn.img.susercontent.com/file/0a52e0b36a0fe13cc38b8f8086b2eb9d",
+        "text": "Áo Croptop Hai Dây Babydoll - Lapin",
+        "link": "https://shope.ee/9epkd0VU9s"
+    }, 
+    {
+        "img": "https://down-vn.img.susercontent.com/file/2b7a4b5fc3a42c972ec7313100fbc628",
+        "text": "Váy Vintage Babydoll Blapink Cổ Vuông Nàng Ther Dịu Dàng",
+        "link": "https://shope.ee/fuvuM6mWH"
+    },  
+    {
+        "img": "https://down-vn.img.susercontent.com/file/6be5fd29f2a671f6cc7ec7c9696dcbbf",
+        "text": "Váy Hoa Nhí Cổ Yếm Hở Lưng Chất Lụa Siêu Đẹp - JUHEE DRESS T235",
+        "link": "https://shope.ee/2pzQUGV0Vs"
+    },  
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lghob3fe6jca88",
+        "text": "ĐẦM MIDI YẾM",
+        "link": "https://shope.ee/4pkUrrYYYW"
+    },  
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lghosytun33ed1",
+        "text": "SET TÚI HỘP KAKI ÁO CROP 3M",
+        "link": "https://shope.ee/AUOrcAbsXs"
+    },  
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-leqxz5mebb8zfb",
+        "text": "Set áo 2 dây thêu + quần - Chitchitstore",
+        "link": "https://shope.ee/1LAchDvKEe"
+    }, 
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lghp5naom86v09",
+        "text": "SET YẾM XÔ REN VIỀN TẦNG + SHORT TRẮNG",
+        "link": "https://shope.ee/2pzQTu4hEz"
+    }, 
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgho5yb95ieidd",
+        "text": "SET JUMP ĐEN VIỀN 2S KÈM SƠ MI TRẮNG",
+        "link": "https://shope.ee/9UWKQ4hkVU"
+    }, 
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfnua0sxnm2s23",
+        "text": "Set áo bèo + quần - Chitchitstore",
+        "link": "https://shope.ee/4KoEGUYZTb"
+    }, 
+    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgu9p99nw8xef3",
         "text": "set đồ đi biển",
         "link": "https://shope.ee/6zooKlfSKI"
