@@ -1,6 +1,16 @@
 
 //do meo ban -------------------------------------------------------------------------------------------------------------------------
 const panel1 = [
+   {
+        "img": "https://down-vn.img.susercontent.com/file/cdd8b84ea10f548c815d6e5d6f7021e9",
+        "text": "Áo sơ mi vải nhung tăm tay dài nam nữ dáng rộng cao cấp DAVUBA SM007",
+        "link": "https://shope.ee/10Xt53HcoB"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/bd98c9e0cf1e1b5ff0aecd6dd3409420",
+        "text": "Dây chuyền bạc Miuu Silver, vòng cổ nữ hình cái nơ đính đá xinh xắn, sang trọng",
+        "link": "https://shope.ee/40B79Q4ROa"
+    },
     {
         "img": "https://down-vn.img.susercontent.com/file/bd98c9e0cf1e1b5ff0aecd6dd3409420",
         "text": "Dây chuyền bạc Miuu Silver, vòng cổ nữ hình cái nơ đính đá xinh xắn, sang trọng",
@@ -229,7 +239,27 @@ const panel1 = [
 ]
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
-   {
+      {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgiybw01kjxz7b",
+        "text": "Đầm yếm dài hở lưng nhún ngực La Boutique đi biển, dịu dàng, nữ tính",
+        "link": "https://shope.ee/2AjqSys2KG"
+    }, 
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf7qc830dglz03",
+        "text": "Đầm hai dây hở lưng đan dây vải xô La Boutique nữ tính bánh bèo",
+        "link": "https://shope.ee/3Kvnr3TDE1"
+    }, 
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgiybw01x71zc1",
+        "text": "[Mã TOPMAY giảm đến 25k đơn 150k] Áo trễ vai tay dài thắt dây nhún ngực La Boutique đi biển",
+        "link": "https://shope.ee/7UlMod6E7T"
+    },  
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgiybw025mgncf",
+        "text": "Chân váy dài vải tơ nhún La Boutique nàng thơ, đi biển",
+        "link": "https://shope.ee/5KgsEXZFGq"
+    }, 
+    {
         "img": "https://down-vn.img.susercontent.com/file/0a52e0b36a0fe13cc38b8f8086b2eb9d",
         "text": "Áo Croptop Hai Dây Babydoll - Lapin",
         "link": "https://shope.ee/9epkd0VU9s"
@@ -2425,6 +2455,16 @@ const panel8 = [
 ]
 //my pham -------------------------------------------------------------------------------------------------------------------------
 const panel9 = [
+     {
+        "img": "https://down-vn.img.susercontent.com/file/bd98c9e0cf1e1b5ff0aecd6dd3409420",
+        "text": "Dây chuyền bạc Miuu Silver, vòng cổ nữ hình cái nơ đính đá xinh xắn, sang trọng",
+        "link": "https://shope.ee/40B79Q4ROa"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/3f639e1fb44ab79f2883083120b25e18",
+        "text": "Dây chuyền bạc nữ Miuu Silver, vòng cổ bạc đính 1 viên đá nhỏ xinh Elisie Necklace",
+        "link": "https://shope.ee/5Uzuw60TWm"
+    },
     {
         "img": "https://down-vn.img.susercontent.com/file/381dd52e94734699dbf6522240dc12b7",
         "text": "Dalat lens cận mắt kính áp tròng màu nâu tự nhiên trong veo có độ Hàn Quốc hãng lens dabae",
