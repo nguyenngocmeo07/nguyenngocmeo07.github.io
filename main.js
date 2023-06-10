@@ -239,7 +239,42 @@ const panel1 = [
 ]
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
-    {
+  {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhjcmahldqpxfd",
+        "text": "Váy nữ tay bồng bo chun eo dáng xòe hai tầng tiểu thư thanh lịch,thiết kế đi làm đi chơi",
+        "link": "https://shope.ee/8UeGdPxbRG"
+    },    
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhjcmahlkrk5d0",
+        "text": "Váy nữ trễ vai dáng xòe chất voan tơ mềm mại,thiết kế nhún bồng tiểu thư",
+        "link": "https://shope.ee/5KhErVTonA"
+    },    
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhls5oyicux1b8",
+        "text": "Áo hoa cúp ngực hoa nhún bồng kiểu bí ngô,áo kiểu nữ cúp ngực bồng xoè",
+        "link": "https://shope.ee/30JK590vRp"
+    },    
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-djig459786nv5f",
+        "text": "Sét Áo Khoét Vai Kiểu Bèo Phối Quần Đùi Kiểu Dáng Xinh Xắn + Quần Sọt Phom Rộng Siêu Xinh",
+        "link": "https://shope.ee/4pkyGR4lVq"
+    },   
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-lh7nq3oz66nv3f",
+        "text": "Sét Áo Quần Tiểu Thư + Quần Đùi Xòe Năng Động",
+        "link": "https://shope.ee/8zaXDziBRw"
+    }, 
+   {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-zcgbnz3j9ykv5e",
+        "text": "Váy Sơ Mi Kiểu Hàn Quốc-Váy Sơ Mi Sang Chảnh Tôn Dáng",
+        "link": "https://shope.ee/4AVHT270GV"
+    }, 
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgjk1x9uuzuf7d",
+        "text": "Aó Yếm Hai Dây Thắt Nơ Xinh Xắn Dáng Xòe Tiểu Thơ+ Chân Váy Xòe Dáng Ngắn( Có Kèm Lót Quần )",
+        "link": "https://shope.ee/4AVHSved3l"
+    }, 
+   {
         "img": "https://down-vn.img.susercontent.com/file/66371abc5801b29461d94c1ed703d8a7",
         "text": "GILL BABY | Áo ống croptop corset chiết eo trendy sexy năng động đi cafe sống ảo hẹn hò (LOUIS TOP)",
         "link": "https://shope.ee/1q7MgNyVof"
