@@ -239,7 +239,62 @@ const panel1 = [
 ]
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
-      {
+    {
+        "img": "https://down-vn.img.susercontent.com/file/66371abc5801b29461d94c1ed703d8a7",
+        "text": "GILL BABY | Áo ống croptop corset chiết eo trendy sexy năng động đi cafe sống ảo hẹn hò (LOUIS TOP)",
+        "link": "https://shope.ee/1q7MgNyVof"
+    },
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lh6fbkcd308j89",
+        "text": "GILL BABY | Chân váy y2k douyin túi hộp chất kaki dày hot trend đi chơi đi quẩy đi du lịch (CYBER SKIRT)", 
+        "link": "https://shope.ee/3KwASmfgqP"
+    },
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgf4inr59b3e90",
+        "text": "GILL BABY | Bodysuit cổ cao chất thun lạnh trendy sexy đi chơi đi quẩy đi du lịch (GB SUIT)", 
+        "link": "https://shope.ee/9UWno1pMoK"
+    },
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lh8v7jifmm2a2b_tn",
+        "text": "GILLBABY | Chân váy dù dài xẻ tà rút dây hot trend năng động cá tính trendy (ACTIVE SKIRT)", 
+        "link": "https://shope.ee/99txPJJrUm"
+    },
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgqe81edw0s375_tn",
+        "text": "GILL BABY | Đầm váy phối corset tay dài trễ vai xoè trendy năng động đi chơi cafe sống ảo hẹn hò (FUTURE DRESS)", 
+        "link": "https://shope.ee/8KKqPgcvqs"
+    },
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-rab90c36wtovac",
+        "text": "Đầm lệch vai [Belle dress] váy công chúa nơ vai cúp ngực vải tafta cao cấp dáng xoè chiết eo đi tiệc,đi chơi Tiệm Nhà Cá", 
+        "link": "https://shope.ee/3fZ0qzSS73"
+    }, 
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf2nf7k3o1nbcd",
+        "text": "Set Áo Croptop 2 Dây Bản Lớn Phối Nơ Kèm Chân Váy Tennis Xếp ly Cạp Cao Xinh Xắn beechan store FREESHIP50K", 
+        "link": "https://shope.ee/AK5un4l2qw"
+    },   
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf2n7856842225",
+        "text": "Đầm Len Tiểu Thư Dáng Đuôi Cá Phối Dây Thắt Lưng Sang Chảnh beechan store FREESHIP50K", 
+        "link": "https://shope.ee/7UljPmBakS"
+    },    
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-xgt5iaqz3xov50",
+        "text": "set áo gân xám + chân váy chữ A", 
+        "link": "https://shope.ee/5zwvcovgMi"
+    }, 
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lg0l8bdyj4dz2c",
+        "text": "SET ÁO ỐNG DENIM ĐAN EO CHOCKER CỔ + CHÂN Váy 🎶🎶",
+        "link": "https://shope.ee/30JK3C18CW"
+    },
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lh9dtr9xj10z64",
+        "text": "SET ÁO ỐNG REN HOA TRẮNG ĐÍNH NƠ NGỰC + CHÂN VÁY ĐEN",
+        "link": "https://shope.ee/3AckFPTJpN"
+    },     
+   {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgiybw01kjxz7b",
         "text": "Đầm yếm dài hở lưng nhún ngực La Boutique đi biển, dịu dàng, nữ tính",
         "link": "https://shope.ee/2AjqSys2KG"
