@@ -1868,6 +1868,56 @@ const panel2 = [
 //đồ ngủ -------------------------------------------------------------------------------------------------------------------------
 const panel3 = [
      {
+        "img": "https://cf.shopee.vn/file/vn-11134207-7qukw-lhfxsayizidd57",
+        "text": "Set đồ ngủ nữ cổ yếm Uri Studio bộ đồ ngủ mặc nhà/đi biển Ignis",
+        "link": "https://shope.ee/9KDPHSAK2a"
+    },
+    {
+        "img": "https://cf.shopee.vn/file/vn-11134207-7qukw-lgueuck0nsoj58",
+        "text": "Set đồ ngủ nữ 2 dây đẹp Uri Stdio, set đồ ngủ 2 món mặc nhà đẹp Krixi",
+        "link": "https://shope.ee/20QoXwuIpW"
+    },
+    {
+        "img": "https://cf.shopee.vn/file/vn-11134207-7qukw-lfqnxxhrnmgla4",
+        "text": "Set bộ SWEETIE xuyên thấu xinh iu nàng therrr ( áo 2 lớp)",
+        "link": "https://shope.ee/1VUXx0Rww8"
+    },
+    {
+        "img": "https://passio-prod.s3-ap-southeast-1.amazonaws.com/passio-prod/builder/62dd56294a305458b75bb367/10E63553-EE6A-499B-B143-F5A9DAC4EC98.jpeg",
+        "text": "Set bộ SPRING hoạ tiết caro trendy, chất liệu cotton xốp phối ren mềm mại",
+        "link": "https://shope.ee/9p9fsDPS2i"
+    },
+    {
+        "img": "https://passio-prod.s3-ap-southeast-1.amazonaws.com/passio-prod/builder/62dd56294a305458b75bb367/C20E2743-BDA4-4531-A626-F1923EBA24B5.jpeg",
+        "text": "Set bộ SPRING 2 dây phối ren, chất liệu voan 2 lớp mềm mịn nàng thơ",
+        "link": "https://shope.ee/8A1Rt5kTQ1"
+    },
+    {
+        "img": "https://passio-prod.s3-ap-southeast-1.amazonaws.com/passio-prod/builder/62dd56294a305458b75bb367/9C370888-6B41-4B19-8DD7-8D97C07F5953.jpeg",
+        "text": "Đầm ngủ Lily hoa nhí kem (voan phối ren mềm mịn)",
+        "link": "https://shope.ee/9zT64QIROs"
+    },
+    {
+        "img": "https://passio-prod.s3-ap-southeast-1.amazonaws.com/passio-prod/builder/62dd56294a305458b75bb367/IMG_1091.png",
+        "text": "￼Bộ ngủ cánh tiên bèo in hình siêu dễ thương chất đũi xốp nhăn mặt mát thoải mái",
+        "link": "https://shope.ee/2VN58buX11"
+    },
+    {
+        "img": "https://passio-prod.s3-ap-southeast-1.amazonaws.com/passio-prod/builder/62dd56294a305458b75bb367/IMG_1090.png",
+        "text": "￼Bộ Ngủ 2 Dây Bèo Quần Đùi - Set mặc nhà hình cute mặc mát thoải mái dễ thương",
+        "link": "https://shope.ee/3VFcKPeOzD"
+    },
+    {
+        "img": "https://passio-prod.s3-ap-southeast-1.amazonaws.com/passio-prod/builder/62dd56294a305458b75bb367/IMG_0886.png",
+        "text": "Set đồ mặc nhà, đồ ngủ hai dây thiết kế - Princess set",
+        "link": "https://shope.ee/504Q77MuW1"
+    },
+    {
+        "img": "https://passio-prod.s3-ap-southeast-1.amazonaws.com/passio-prod/builder/62dd56294a305458b75bb367/IMG_0884.png",
+        "text": "Set ngủ Jolie - đồ ngủ, đồ mặc nhà chất lụa mango thoáng mát",
+        "link": "https://shope.ee/2AkEjrUVcJ"
+    }, 
+   {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-hokqq6qwcvov42",
         "text": "Set đồ ngủ nữ mặc nhà mùa hè đẹp Alice, set đồ ngủ nữ 2 dây cute Uri Studio",
         "link": "https://shope.ee/AK4Rqz2n15"
