@@ -239,7 +239,92 @@ const panel1 = [
 ]
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
-  {
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-li7gxxb6jhfw67",
+        "text": "Sơ mi trễ vai tay bồng chất thô Hàn thời trang nữ",
+        "link": "https://shope.ee/AzZGKlaIC"
+    }, 
+   {
+        "img": "https://down-vn.img.susercontent.com/file/8dce25e2aac5c8b3b815000f4692c021",
+        "text": "Áo bèo xốp nhăn thời trang nữ",
+        "link": "https://shope.ee/99uNyoNjm7"
+    }, 
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhslzkle6o5de0",
+        "text": "[CORA SET] Set áo tay bồng corset và chân váy xinh sang tiểu thư mặc nhiều kiểu trễ vai và tay bồng",
+        "link": "https://shope.ee/qFG3QzcAb"
+    },  
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgi22wd2tduyab",
+        "text": "[JESSI SET] Set áo cúc bọc tay bồng phối chân váy li tà (Ảnh thật shop chụp)",
+        "link": "https://shope.ee/8zaxmNEXeD"
+    },  
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgkz8tek2b8q1d",
+        "text": "[MAYA SET] Set áo tay bồng và chân váy dáng xoè quả bí (Ảnh thật shop chụp)",
+        "link": "https://shope.ee/8A1qmmwim3"
+    },   
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhowd08knydda3",
+        "text": "[Flora Dress] váy hoa nơ ngực phối công chúa lalacrush",
+        "link": "https://shope.ee/504p0tArgr"
+    },  
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhkmtq5gw4apce",
+        "text": "[Sẵn mút] Đầm 2 dây tiểu thư công chúa tafta đi tiệc hẹn hò đi chơi tag nơ cao cấp quyến rũ sang chảnh Venus Dress",
+        "link": "https://shope.ee/8KLGywiKVA"
+    },
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhcrsnm3swz72a",
+        "text": "Váy maxi đi biển họa tiết hoa áo crotop tay phồng kết hợp chân váy xòe dáng dài",
+        "link": "https://shope.ee/6fD2zpL1Gr"
+    },
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhnld0ijo9l1bc",
+        "text": "[ELSIE SET] Set áo nơ trễ vai corset mix chân váy xẻ cách điệu (Ảnh thật shop chụp)",
+        "link": "https://shope.ee/6pWTC4Lvqj"
+    },
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-li1lcgi96rgl4e",
+        "text": "[Hebe Top] Áo sơ mi dáng croptop tay bồng, dài tay trơn 4 màu LalaCrush",
+        "link": "https://shope.ee/1LBWdt0Ycq"
+    },
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lh91hzq6a0qa95",
+        "text": "[Ceices Skirt ] Chân váy tennis khoét cạp",
+        "link": "https://shope.ee/8zaxluHO7O"
+    },
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-li35eqosqjgs11",
+        "text": "Áo Croptop Ôm Body Nữ Cổ Tròn Tay Ngắn Họa Tiết In Chữ WEEKEEP Rất Cá Tính A5309",
+        "link": "https://shope.ee/1VUwq2d1TF"
+    },   
+   {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-eaux8ai748kvda",
+        "text": "Áo trễ vai croptop ôm dáng cho nữ - áo croptop tay dài đắp chéo chất thun gân tăm dày mịn A019",
+        "link": "https://shope.ee/30JkcivXM6"
+    },   
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-lgqhw60z52r6d5",
+        "text": "Chân váy ngắn ôm vòng 3 PINKSTORE29 chất kaki, kiểu túi hộp 2 bên C059",
+        "link": "https://shope.ee/8ey7N4omNU"
+    },   
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-li35eqot36ks1b_tn",
+        "text": "Áo croptop nữ tay ngắn vạt bầu cổ tim chất thun cotton 2 chiều mềm mịn mát - A0166",
+        "link": "https://shope.ee/8KLGyNIfEr"
+    },  
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgq9zhkgipdf68",
+        "text": "Quần giả váy kaki cạp cao dành cho nữ, quần đùi giả váy siêu dễ phối đồ",
+        "link": "https://shope.ee/5zxMC1td6O"
+    },
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgq9zhkgvchfd3",
+        "text": "Quần đùi nữ ôm lưng cao quần short nữ kaki giãn đẹp",
+        "link": "https://shope.ee/9KDoA3RlTf"
+    }, 
+   {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhjcmahldqpxfd",
         "text": "Váy nữ tay bồng bo chun eo dáng xòe hai tầng tiểu thư thanh lịch,thiết kế đi làm đi chơi",
         "link": "https://shope.ee/8UeGdPxbRG"
