@@ -239,7 +239,67 @@ const panel1 = [
 ]
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
-    {
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhejg1gpxo75f3",
+        "text": "Áo Trễ Vai Phối Bèo Tay Dài , Áo Sơmi Kiểu Nữ Dài Tay Trễ Vai Siêu nữ tính ( có bigsize) VAVASA SM88",
+        "link": "https://shope.ee/4AVtdVutyF"
+    }
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-li87bw3or1ea5e",
+        "text": "Áo sơ mi nữ dáng croptop ELWYN EL34",
+        "link": "https://shope.ee/7f5lnswOP1"
+    }
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgunswmw2i9f1a",
+        "text": "Đầm yếm nơ tầng - Chitchitstore",
+        "link": "https://shope.ee/3KwmdnKWKO"
+    }
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lidc5jora4ng59",
+        "text": "Set áo cổ vuông xẻ ô + quần ô - Chitchitstore",
+        "link": "https://shope.ee/3KwmdivfY8"
+    } 
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lidbz65l69zg6b",
+        "text": "Set áo nhún 3 màu + quần trắng - Chitchitstore",
+        "link": "https://shope.ee/5V1HDefUPy"
+    }
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhdfa38nf29e54",
+        "text": "SET ỐNG CARO XOÈ PHỒNG + QUẦN SHORT NUDE",
+        "link": "https://shope.ee/3pt3EX5Sfx"
+    },
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lh66m3m6yc6q31",
+        "text": "SET ÁO ỐNG CÚP + CHÂN VÁY TÚI",
+        "link": "https://shope.ee/7UmLbCb6iN"
+    },
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhuddfg0q30h0d",
+        "text": "SET ÁO ỐNG TRẮNG BỒNG BỀNH + CHÂN VÁY",
+        "link": "https://shope.ee/2L4FRdnaoF"
+    },
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhuddfg0q30h0d",
+        "text": "Quần Váy Jean TULIDU Denim Mini Skirt Chữ A Form Nhỏ Ôm Gọn Quần Jean Giả Váy Năng Động Mùa Hè 2023",
+        "link": "https://shope.ee/LJB3sx9q8"
+    },
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-0nj05tknqlnv91",
+        "text": "[Mina Dress] Váy trễ vai tay bồng dây ngọc, đầm tiểu thư trễ vai, váy dự tiệc đi chơi bazizcloset",
+        "link": "https://shope.ee/20RP2qFhw1"
+    },
+   {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-puyd0flsaflv8e",
+        "text": "Đầm Rosa Dress",
+        "link": "https://shope.ee/1q7yqNtzYU"
+    },
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf9ajgp4ow9ja6",
+        "text": "ĐẦM DOLL TRỄ VAI HOA NỔI HỒNG TAY PHỒNG ❤️",
+        "link": "https://shope.ee/8pHjBAM9R6"
+    }, 
+   {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-li7gxxb6jhfw67",
         "text": "Sơ mi trễ vai tay bồng chất thô Hàn thời trang nữ",
         "link": "https://shope.ee/AzZGKlaIC"
