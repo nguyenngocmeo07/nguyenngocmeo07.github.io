@@ -243,27 +243,27 @@ const panel2 = [
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhejg1gpxo75f3",
         "text": "Áo Trễ Vai Phối Bèo Tay Dài , Áo Sơmi Kiểu Nữ Dài Tay Trễ Vai Siêu nữ tính ( có bigsize) VAVASA SM88",
         "link": "https://shope.ee/4AVtdVutyF"
-    }
+    },
    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-li87bw3or1ea5e",
         "text": "Áo sơ mi nữ dáng croptop ELWYN EL34",
         "link": "https://shope.ee/7f5lnswOP1"
-    }
+    },
    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgunswmw2i9f1a",
         "text": "Đầm yếm nơ tầng - Chitchitstore",
         "link": "https://shope.ee/3KwmdnKWKO"
-    }
+    },
    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lidc5jora4ng59",
         "text": "Set áo cổ vuông xẻ ô + quần ô - Chitchitstore",
         "link": "https://shope.ee/3KwmdivfY8"
-    } 
+   },
    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lidbz65l69zg6b",
         "text": "Set áo nhún 3 màu + quần trắng - Chitchitstore",
         "link": "https://shope.ee/5V1HDefUPy"
-    }
+  },
    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhdfa38nf29e54",
         "text": "SET ỐNG CARO XOÈ PHỒNG + QUẦN SHORT NUDE",
