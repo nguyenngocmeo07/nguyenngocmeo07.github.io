@@ -2023,7 +2023,12 @@ const panel2 = [
 ]
 //đồ ngủ -------------------------------------------------------------------------------------------------------------------------
 const panel3 = [
-     {
+   {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-7qvfv-libe2obw9lhic8",
+        "text": "[Siêu Sale] [FreeShip] [Ảnh thật] Bộ mặc nhà lụa Latin 2 dây có 5 màu HOT basic , sang chảnh ngay khi ở nhà",
+        "link": "https://shope.ee/6AGz91XcDT"
+    }, 
+   {
         "img": "https://cf.shopee.vn/file/vn-11134207-7qukw-lhfxsayizidd57",
         "text": "Set đồ ngủ nữ cổ yếm Uri Studio bộ đồ ngủ mặc nhà/đi biển Ignis",
         "link": "https://shope.ee/9KDPHSAK2a"
@@ -2211,6 +2216,26 @@ const panel3 = [
 ]
 //ao thun, áo croptop -------------------------------------------------------------------------------------------------------------------------
 const panel4 = [
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lijy4lg5385o24",
+        "text": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lijy4lg5385o24",
+        "link": "https://shope.ee/8UetviWIks"
+    },
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgaczib8icc757",
+        "text": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgaczib8icc757",
+        "link": "https://shope.ee/7pPD8OoOT6"
+    },
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lh73vutlanuac7",
+        "text": "Áo Thun LocalBrand Cemmery "POWER TEE" # 3 Color",
+        "link": "https://shope.ee/5Khs9jCmnX"
+    },
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lih39usnsrgs79",
+        "text": "Áo Thun in Charm chữ Calem.Club - Áo phông tay lỡ form unisex brand",
+        "link": "https://shope.ee/1LBjOJY1s8"
+    },
    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-o6hbsfwjflovee",
         "text": "Áo croptop 2 dây bản to thiết kế dây đan sau lưng gợi cảm áo thun kiểu cổ vuông sexy tôn dáng có mút ngực LCH",
