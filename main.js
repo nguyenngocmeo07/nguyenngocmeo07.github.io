@@ -239,6 +239,17 @@ const panel1 = [
 ]
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
+
+   {
+        "img": "https://down-vn.img.susercontent.com/file/4038bcd2ec6c5607ec6841ab82fa097e",
+        "text": "Váy dự tiệc sang chảnh Josh Dress",
+        "link": "https://shope.ee/1VV9aBQdMK"
+    },
+   {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-c2gdo8jne8mvd1",
+        "text": "VÁY 2S NHÚN NGỰC XOÈ CÔNG CHÚA - SONIA DRESS T232",
+        "link": "https://shope.ee/5AORwkHbEu"
+    },
    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhejg1gpxo75f3",
         "text": "Áo Trễ Vai Phối Bèo Tay Dài , Áo Sơmi Kiểu Nữ Dài Tay Trễ Vai Siêu nữ tính ( có bigsize) VAVASA SM88",
@@ -275,7 +286,7 @@ const panel2 = [
         "link": "https://shope.ee/7UmLbCb6iN"
     },
    {
-        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhuddfg0q30h0d",
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhalpjxvp6ia95",
         "text": "SET ÁO ỐNG TRẮNG BỒNG BỀNH + CHÂN VÁY",
         "link": "https://shope.ee/2L4FRdnaoF"
     },
