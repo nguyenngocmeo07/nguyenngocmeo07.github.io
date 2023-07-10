@@ -240,11 +240,6 @@ const panel1 = [
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
    {
-        "img": "https://cf.shopee.vn/file/vn-11134207-7qukw-li1lcgi96rgl4e",
-        "text": "[Hebe Top] Áo sơ mi dáng croptop tay bồng, dài tay trơn 4 màu LalaCrush sss",
-        "link": "https://shope.ee/30JUdkDGTu"
-    },
-   {
         "img": "https://down-vn.img.susercontent.com/file/4038bcd2ec6c5607ec6841ab82fa097e",
         "text": "Váy dự tiệc sang chảnh Josh Dress",
         "link": "https://shope.ee/1VV9aBQdMK"
