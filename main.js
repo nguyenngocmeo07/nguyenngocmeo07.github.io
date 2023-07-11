@@ -239,6 +239,11 @@ const panel1 = [
 ]
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lg3vt2hz58tz8a",
+        "text": "Đầm Dự Tiếc Sang Chảnh Trễ Vai Có Đệm Ngực - NƠ XOẮN",
+        "link": "https://shope.ee/8KLd8TJHof"
+    },
    {
         "img": "https://down-vn.img.susercontent.com/file/4038bcd2ec6c5607ec6841ab82fa097e",
         "text": "Váy dự tiệc sang chảnh Josh Dress",
