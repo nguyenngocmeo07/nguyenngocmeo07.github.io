@@ -241,7 +241,7 @@ const panel1 = [
 const panel2 = [
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhmzi744thhdab",
-        "text": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhmzi744thhdab",
+        "text": "[Doris Dress] Váy 2s tay rời hoa nổi LalaCrush",
         "link": "https://shope.ee/1LBszlnGnU"
     },
    {
