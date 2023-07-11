@@ -2234,17 +2234,7 @@ const panel3 = [
     }
 ]
 //ao thun, áo croptop -------------------------------------------------------------------------------------------------------------------------
-const panel4 = [
- {
-        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhu05dc1rkjlb5",
-        "text": "Quần short jean ống rộng lưng kiểu bẻ phong cách mới lạ Q084",
-        "link": "https://shope.ee/40CeBKDpFc"
-    },
-   {
-        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-litvg7bj50jw2d",
-        "text": "Áo croptop cổ tròn tay ngắn kiểu in chữ I AM BAD cực chất A5690",
-        "link": "https://shope.ee/8pHtwEYxks"
-    },  
+const panel4 = [ 
    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-litvg79lhpea53",
         "text": "Áo croptop cổ vuông tay ngắn kèm tag trang trí kiểu basic A5678",
@@ -2254,11 +2244,6 @@ const panel4 = [
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhozejaugx4x42",
         "text": "POLO SENTINIALS SIGNATURE áo polo có cổ",
         "link": "https://shope.ee/6zqFkYIPGk"
-    },
-   {
-        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lh73vutlanuac7",
-        "text": "Áo Thun LocalBrand Cemmery POWER TEE 3 Color",
-        "link": "https://shope.ee/5Khs9jCmnX"
     },
    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lh73vutlanuac7",
