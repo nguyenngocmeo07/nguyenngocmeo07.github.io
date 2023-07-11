@@ -240,6 +240,21 @@ const panel1 = [
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhmzi744thhdab",
+        "text": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhmzi744thhdab",
+        "link": "https://shope.ee/1LBszlnGnU"
+    },
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-li2g1tg12wed83",
+        "text": "[Louis Set] set sơ mi mix yếm ô lông Hàn tách rời",
+        "link": "https://shope.ee/7pPMjc9LkM"
+    }, 
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-li6zfakdq6mkb8",
+        "text": "[TINY SET] Set áo sơ mi kẻ khoá kéo 2 đầy kèm quần sooc trắng (kèm ảnh+ video thật) Lalacrush",
+        "link": "https://shope.ee/505BMKZQKm"
+    }, 
+   {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lg3vt2hz58tz8a",
         "text": "Đầm Dự Tiếc Sang Chảnh Trễ Vai Có Đệm Ngực - NƠ XOẮN",
         "link": "https://shope.ee/8KLd8TJHof"
