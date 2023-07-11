@@ -2235,10 +2235,14 @@ const panel3 = [
 ]
 //ao thun, áo croptop -------------------------------------------------------------------------------------------------------------------------
 const panel4 = [
-
+  {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lh73vutlanuac7",
+        "text": "Áo Thun LocalBrand Cemmery POWER TEE 3 Color",
+        "link": "https://shope.ee/5Khs9jCmnX"
+    },
    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lh73vutlanuac7",
-        "text": "Áo Thun LocalBrand Cemmery POWER TEE # 3 Color",
+        "text": "Áo Thun LocalBrand Cemmery POWER TEE 3 Color",
         "link": "https://shope.ee/5Khs9jCmnX"
     },
    {
