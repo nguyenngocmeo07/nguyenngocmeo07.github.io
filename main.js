@@ -2235,14 +2235,34 @@ const panel3 = [
 ]
 //ao thun, áo croptop -------------------------------------------------------------------------------------------------------------------------
 const panel4 = [
-    {
+  {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhu05dc1rkjlb5",
+        "text": "Quần short jean ống rộng lưng kiểu bẻ phong cách mới lạ Q084",
+        "link": "https://shope.ee/40CeBKDpFc"
+    },
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-litvg7bj50jw2d",
+        "text": "Áo croptop cổ tròn tay ngắn kiểu in chữ I AM BAD cực chất A5690",
+        "link": "https://shope.ee/8pHtwEYxks"
+    },  
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-litvg79lhpea53",
+        "text": "Áo croptop cổ vuông tay ngắn kèm tag trang trí kiểu basic A5678",
+        "link": "https://shope.ee/1AsSnw306f"
+    },  
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhozejaugx4x42",
+        "text": "POLO SENTINIALS SIGNATURE áo polo có cổ",
+        "link": "https://shope.ee/6zqFkYIPGk"
+    },
+   {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lijy4lg5385o24",
-        "text": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lijy4lg5385o24",
+        "text": "Áo Baby Tee Raplan in chữ Calem.Club chất liệu 100% cotton - Áo Thun form nữ brand Calem.Club chính hãng",
         "link": "https://shope.ee/8UetviWIks"
     },
    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgaczib8icc757",
-        "text": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgaczib8icc757",
+        "text": "Áo Baby Polo LocalBrand Cemmery "WING BABY POLO" # 3 COLOR",
         "link": "https://shope.ee/7pPD8OoOT6"
     },
    {
