@@ -239,11 +239,31 @@ const panel1 = [
 ]
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22090-quw2d9d5r2hva8",
+        "text": "Túi xách cầm tay nữ mini Tuinhacam túi xách nữ đeo chéo mini đi chơi phong cách retro thời trang Hàn Quốc - TNC071",
+        "link": "https://shope.ee/6pWtIefSK5"
+    },  
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-fyv9cq579pov9f",
+        "text": "Túi hộp đeo chéo Tuinhacam túi hộp mini nhỏ gọn trần trám da PU cao cấp hàng đẹp - TNC001",
+        "link": "https://shope.ee/99uo4s7ioF"
+    },  
+   {
+        "img": "https://down-vn.img.susercontent.com/file/868e7db6870031b5693b8835d188cebc",
+        "text": "Túi xách cầm tay nữ nhỏ Tuinhacam túi xách nữ vuông đeo chéo mini đi chơi thời trang đơn giản Hàn Quốc hàng đẹp - TNC061",
+        "link": "https://shope.ee/4plouHa3Ot"
+    },  
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgs08rn87soj76",
+        "text": "[Bonie Dress] Váy sơ mi trễ vai nơ lụa form babydoll baziz closet",
+        "link": "https://shope.ee/20RdWGEAjb"
+    },  
     {
-        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhmzi744thhdab",
-        "text": "[Doris Dress] Váy 2s tay rời hoa nổi LalaCrush",
-        "link": "https://shope.ee/1LBszlnGnU"
-    },
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-tfq9ouknqlnv6c",
+        "text": "[Mina Dress] Váy trễ vai tay bồng dây ngọc, đầm tiểu thư trễ vai, váy dự tiệc đi chơi bazizcloset",
+        "link": "https://shope.ee/1q8DJpQuG1"
+    },  
    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-li2g1tg12wed83",
         "text": "[Louis Set] set sơ mi mix yếm ô lông Hàn tách rời",
