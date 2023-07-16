@@ -239,7 +239,17 @@ const panel1 = [
 ]
 //vay -------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
-     {
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lia2h9rj8d76ec",
+        "text": "Quần jean ống rộng dáng suông lưng thun kẻ sọc 2 đường tặng kèm áo tanktop ST49",
+        "link": "https://shope.ee/fwK6V7ZlR"
+    },  
+   {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-liuc5ad7vgng52",
+        "text": "Đầm 2 dây công chúa [tặng tag nơ] siêu mát cao cấp silk organza siêu mát Alice BYBYPIL",
+        "link": "https://shope.ee/6Kagqpo1US"
+    },   
+   {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22090-quw2d9d5r2hva8",
         "text": "Túi xách cầm tay nữ mini Tuinhacam túi xách nữ đeo chéo mini đi chơi phong cách retro thời trang Hàn Quốc - TNC071",
         "link": "https://shope.ee/6pWtIefSK5"
